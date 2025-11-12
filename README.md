@@ -56,9 +56,12 @@ It helps decision-makers and analysts optimize vendor relationships, manage stoc
 
 ## **🖼️ Dashboard Preview**
 
-> *(Add a screenshot of your Power BI dashboard here)*  
-Example:  
-![Vendor Performance Dashboard Preview](your_dashboard_image.png)
+Here’s a preview of the **Vendor Performance Dashboard** 👇  
+
+![Vendor Performance Dashboard Preview](Screenshot%202025-11-12%20192936.png)
+
+> The dashboard displays **Total Sales**, **Total Purchases**, **Gross Profit**, **Profit Margin**, and **Unsold Capital**,  
+> along with key visuals like Purchase Contribution %, Top Vendors/Brands by Sales, and Low-Performing Vendors & Brands.
 
 ---
 
@@ -133,6 +136,5 @@ The **Vendor Performance Dashboard** is a **data-driven procurement intelligence
 ## **🔗 View Project on GitHub**
 
 👉 [**Click here to view the project**](https://github.com/YourUsername/Vendor-Performance-Dashboard)
-
 
 
